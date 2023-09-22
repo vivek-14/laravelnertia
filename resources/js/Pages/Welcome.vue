@@ -1,5 +1,7 @@
-<script setup></script>
+<script setup>
+</script>
 
 <template>
-    <h1>Hello World</h1>
+  <Head title="Home" />
+  <h1>Home Page</h1>
 </template>
